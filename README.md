@@ -1,0 +1,1 @@
+Note taking app for messing around with MERN stack
